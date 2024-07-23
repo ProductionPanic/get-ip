@@ -3,7 +3,7 @@ A simple go cli tool to get the ip of a domain or url.
 
 ## Installation
 ```bash
-go install github.com/ProductionPanic/get-ip@v1.2
+go install github.com/ProductionPanic/get-ip@v1.2.0
 ```
 
 ## Usage
